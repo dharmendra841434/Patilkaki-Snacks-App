@@ -2,6 +2,32 @@
 
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
+
+
+# Patil Kaki Unnati Mobile App
+you can download apk file from this repo go to - android/app/build/output/apk/debug/
+
+        or     
+        
+download debug apk file from this google drive link  - https://drive.google.com/file/d/1Y0yJPU6mDvJmbmc02t9F8DDX6BwRLvaq/view?usp=sharing
+
+<div style="display: flex; gap: 20px;">
+<img src="src/assets/screenshots/img1.jpg" width="350" height="550">
+<img src="src/assets/screenshots/img2.jpg" width="350" height="550">
+<img src="src/assets/screenshots/img3.jpg" width="350" height="550">
+<img src="src/assets/screenshots/img4.jpg" width="350" height="550">
+<img src="src/assets/screenshots/img5.jpg" width="350" height="550">
+   <img src="src/assets/screenshots/img6.jpg" width="350" height="550">
+<img src="src/assets/screenshots/img7.jpg" width="350" height="550">
+<img src="src/assets/screenshots/img8.jpg" width="350" height="550">
+<img src="src/assets/screenshots/img9.jpg" width="350" height="550">
+<img src="src/assets/screenshots/img10.jpg" width="350" height="550">
+   <img src="src/assets/screenshots/img11.jpg" width="350" height="550">
+<img src="src/assets/screenshots/img12.jpg" width="350" height="550">
+<img src="src/assets/screenshots/img13.jpg" width="350" height="550">
+<img src="src/assets/screenshots/img14.jpg" width="350" height="550">
+</div>
+
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
